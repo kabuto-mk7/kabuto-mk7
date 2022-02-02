@@ -25,12 +25,10 @@
 
 <p>
  
- 
-  <code><img width="15%" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"></code>
-  <code><img width="15%" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"></code>
-  <code><img width="15%" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"></code>
-  <code><img width="15%" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png"></code>
- <code><img width="15%" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png"></code>
-  <code><img width="15%" src="https://seeklogo.com/images/B/bash-logo-BF4F6893D9-seeklogo.com.png"></code>
-  <code><img width="15%" src="https://seeklogo.com/images/U/ubuntu-logo-8B7C9ED4AD-seeklogo.com.png"></code>
-  <code><img width="15%" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png"></code>
+<code><img width="15%" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"></code>
+<code><img width="15%" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"></code>
+<code><img width="15%" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
+<code><img width="15%" src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png"></code>
+<code><img width="15%" src="https://cdn-icons.flaticon.com/png/512/1240/premium/1240970.png?token=exp=1643834164~hmac=1246f8aa068685e6be0addd52338575b
+"></code>
+<code><img width="15%" src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png"></code>

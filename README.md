@@ -26,12 +26,11 @@
 <p>
  
  
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+  <code><img width="15%" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"></code>
+ <code><img width="15%" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"></code>
+  <code><img width="15%" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"></code>
+  <code><img width="15%" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png"></code>
+ <code><img width="15%" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png"></code>
+  <code><img width="15%" src="https://seeklogo.com/images/B/bash-logo-BF4F6893D9-seeklogo.com.png"></code>
+  <code><img width="15%" src="https://seeklogo.com/images/U/ubuntu-logo-8B7C9ED4AD-seeklogo.com.png"></code>
+  <code><img width="15%" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png"></code>

@@ -29,6 +29,5 @@
 <code><img width="15%" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"></code>
 <code><img width="15%" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 <code><img width="15%" src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png"></code>
-<code><img width="15%" src="https://cdn-icons.flaticon.com/png/512/1240/premium/1240970.png?token=exp=1643834164~hmac=1246f8aa068685e6be0addd52338575b
-"></code>
+<code><img width="15%" src="https://cdn-icons.flaticon.com/png/512/1240/premium/1240970.png"></code>
 <code><img width="15%" src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png"></code>

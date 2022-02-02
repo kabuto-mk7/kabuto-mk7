@@ -14,7 +14,7 @@
 
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning and Mobile Computing.
 
-✍️ &nbsp;Apart from technical interests, I like Competitive Video Games and Esports, Building Computers, Watching Anime.
+✍️ &nbsp;Apart from technical interests, I like Competitive Video Games and Esports, Building Computers, Watching YouTube and Movies!
 
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions 
 

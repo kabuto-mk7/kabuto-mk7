@@ -27,7 +27,7 @@
  
  
   <code><img width="15%" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"></code>
- <code><img width="15%" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"></code>
+  <code><img width="15%" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"></code>
   <code><img width="15%" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"></code>
   <code><img width="15%" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png"></code>
  <code><img width="15%" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png"></code>

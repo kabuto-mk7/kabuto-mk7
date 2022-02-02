@@ -8,6 +8,12 @@
 
 -----
 
+https://leetcode.com/kabuto-mk7/
+
+https://www.hackerrank.com/kemalmehmetmk7
+
+-----
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Hello everyone, I'm Computer Science student. Love to code, I enjoy collaborating with people on works of similar interest. 

@@ -20,7 +20,7 @@
 
 ✉️ &nbsp;You can email me at kemalmehmetmk7@gmail.com or contact me on discord Kabuto#7275. I'll try to respond as soon as possible!
 
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1kO8gos43CIjMGNCIqprZLxBnp-BjzhwD/view?usp=sharing) for more details about work experience.
+📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1U3zUH84RrbiJQ1Ac7opHKC2ko7geSpte/view?usp=sharing) for more details about work experience.
 
 
 <h3 align="left">Connect with me:</h3>

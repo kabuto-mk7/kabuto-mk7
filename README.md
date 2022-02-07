@@ -12,7 +12,7 @@
 <p>&nbsp;<img align="right" width="250" alt="🦑" src="https://count.getloli.com/get/@:kabuto-mk7?theme=gelbooru"></p>
 
 - I’m a Computer Science Student from London
-- I’m a currently working on a discord bot made in Java (and trying to run it from a raspberry pi!)
+- I’m a currently working on a <a href="https://github.com/kabuto-mk7/shishi-bot">discord bot made in java</a> (and trying to run it from a raspberry pi!)
 - I love to code and collaborate on work!
 - Feel free to contact me using my email - kemalmehmetmk7@gmail.com or my Discord - Kabuto#7275
 - I'm looking to work on a project! you can check out my <a href="https://drive.google.com/file/d/1U3zUH84RrbiJQ1Ac7opHKC2ko7geSpte/view?usp=sharing">Resume</a> for work experience.

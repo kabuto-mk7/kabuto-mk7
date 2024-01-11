@@ -13,7 +13,7 @@
 <p>&nbsp;<img align="right" width="250" alt="🦑" src="https://count.getloli.com/get/@:kabuto-mk7?theme=gelbooru"></p>
 
 - I’m a Software Develoepr from London
-- - I love to code and collaborate on work! 
+- I love to code and collaborate on work! 
 - Feel free to contact me using my email - kemalmehmetmk7@gmail.com or my Discord - Kabuto#7275
 
 

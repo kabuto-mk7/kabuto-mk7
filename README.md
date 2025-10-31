@@ -14,7 +14,7 @@
 
 - I’m a Software Develoepr from London
 - I love to code and collaborate on work! 
-- Feel free to contact me using my email - kemalmehmetmk7@gmail.com or my Discord - Kabuto#7275
+- Feel free to contact me using my email - contact@kabuto.studio
 
 
 <br>
